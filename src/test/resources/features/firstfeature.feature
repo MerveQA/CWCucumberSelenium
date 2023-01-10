@@ -1,5 +1,5 @@
-Feature  : ilk feature dosyasi
-  
+Feature: : ilk feature dosyasi
+
   Scenario: ilk test senaryosu
     Given Ilk feature icin cucumber indirdim
     When Senaryomu calistirdigimda
